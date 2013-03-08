@@ -1,0 +1,1 @@
+This will build our first sample app to learn how to develop an active ruby website
