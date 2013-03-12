@@ -8,4 +8,6 @@ class StaticPagesController < ApplicationController
   end
   def contact
   end
+  def sign_up_now
+  end
 end
